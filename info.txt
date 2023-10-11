@@ -1,3 +1,4 @@
 Stworzenie nowego pliku z informacjami.
 Dodanie linijki wna stronie w githubie.
 Dodanie kolejnej linijki na githubdo wykonania pulla.
+Stworzyłem nowy branch na githubie.
